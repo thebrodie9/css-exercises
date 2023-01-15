@@ -1,0 +1,12 @@
+.male,
+.female {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman",sans-serif;
+}
+.male {
+    background-color: black;
+    color: white;
+}
+.female {
+    background-color: yellow;
+}
